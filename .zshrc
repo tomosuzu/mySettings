@@ -13,3 +13,13 @@ alias mkdir='mkdir -p'
 
 
 
+### compliments
+autoload -U compinit; compinit
+setopt auto_list
+setopt auto_menu
+
+
+
+
+### history
+HISTFILE=~/.zsh_history
