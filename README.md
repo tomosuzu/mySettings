@@ -19,6 +19,7 @@ https://www.grammarly.com/
 ## Development
 
 git config --global user.name ""
+
 git config --global user.email ""
 
 
