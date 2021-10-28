@@ -10,10 +10,10 @@ brew tap caskroom/cask
 # App
 brew cask install git
 brew cask install kindle
-brew cask install flycut
+# brew cask install flycut
 
 # Design Tools
-brew cask install sketch
+# brew cask install sketch
 
 # Development Tools
 brew cask install dash
@@ -22,22 +22,22 @@ brew cask install iterm2
 
 
 # Text Editors
-brew cask install atom
-brew cask install sublime-text
-brew cask install macvim
-brew cask install emacs
+# brew cask install atom
+# brew cask install sublime-text
+# brew cask install macvim
+# brew cask install emacs
 
 # Browsers
 
 brew cask install google-chrome
-brew cask install firefou
+brew cask install firefox
 
 # Language
-brew cask install java
-brew install node
-brew install go
-brew install python
+# brew cask install java
+# brew install node
+# brew install go
+# brew install python
 
 # for JavaScript
-npm install --global yarn
-npm install --global webpack
+# npm install --global yarn
+# npm install --global webpack
